@@ -1,0 +1,28 @@
+.btn{
+    border-radius: 0;
+    border: 1;
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding: 2rem 3rem;
+    text-transform: uppercase;
+    white-space: initial;
+    cursor: pointer;
+}
+.btn--primary1{
+    background-color: blue;
+}
+.btn--primary1:hover{
+    background: rgb(9, 228, 9);
+}
+.btn--primary1:active{
+    background: rgb(237, 202, 0);
+}
+.btn--primary2{
+    background: rgb(9, 116, 152);
+}
+.btn--primary2:hover{
+    background: rgb(165, 165, 16);
+}
+.btn--primary2:active{
+    background: rgb(255, 0, 0);
+}
